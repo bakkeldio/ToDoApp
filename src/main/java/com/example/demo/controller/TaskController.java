@@ -114,7 +114,7 @@ public class TaskController {
         Task taskToUpdate = taskService.findById(taskId);
         model.addAttribute("task", taskToUpdate);
 
-        return "/task/add-task-page";
+        return "task/add-task-page";
     }
 
     @GetMapping("/showDoneTasks")
