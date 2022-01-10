@@ -1,9 +1,7 @@
 # ToDoApp ![](src/main/resources/static/img/task-pro-sm.png)
-Demonstration video is [here](https://www.youtube.com/watch?v=okPTZxcEFrA).
+Design of the project(figma) [here](https://www.figma.com/file/imGmRlsjBGkvZXXYzyeF2b/ToDoApp?node-id=0%3A1).
 <br>
 <br>
-<br>
-
 <b>What is ToDoApp?</b>
 
 <b>ToDoApp</b> is an <b><i>Spring Boot</i></b> application that allows users to manage tasks to do. The user can add any number of tasks, modify tasks and send unfinished tasks to his email.
